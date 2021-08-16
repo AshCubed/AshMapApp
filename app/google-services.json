@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891151896668",
+    "firebase_url": "https://ashmapapp.firebaseio.com",
+    "project_id": "ashmapapp",
+    "storage_bucket": "ashmapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891151896668:android:e2eb0767dfd87476835699",
+        "android_client_info": {
+          "package_name": "com.vega.gade3.student17611612.ashmapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891151896668-v21e1e4m4nphv559tc8ua0beoinhbhhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-S-wpeNZ22PBeuWomQdaxCvRb0GpFmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891151896668-v21e1e4m4nphv559tc8ua0beoinhbhhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

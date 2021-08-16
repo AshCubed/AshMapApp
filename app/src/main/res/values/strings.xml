@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AshMapApp</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Firestore Strings -->
+    <string name="collection_Profiles">Profiles</string>
+    <string name="collection_user_locations">UserLocations</string>
+
+    <string-array name="favLocationTypes_array">
+        <item>Historical</item>
+        <item>Modern</item>
+    </string-array>
+</resources>
